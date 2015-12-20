@@ -1,0 +1,8 @@
+prefix=/home/human/catkin_ws/devel
+
+Name: libnite2
+Description: Description of libnite2
+Version: 0.0.1
+Cflags: -I/home/human/catkin_ws/src/cob_people_perception/libnite2/common/include
+Libs: -L/home/human/catkin_ws/devel/lib -lNiTE2
+Requires: 

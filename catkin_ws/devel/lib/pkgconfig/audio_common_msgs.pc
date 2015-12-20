@@ -1,0 +1,8 @@
+prefix=/home/human/catkin_ws/devel
+
+Name: audio_common_msgs
+Description: Description of audio_common_msgs
+Version: 0.2.7
+Cflags: -I/home/human/catkin_ws/devel/include
+Libs: -L/home/human/catkin_ws/devel/lib 
+Requires: message_runtime

@@ -1,0 +1,10 @@
+<launch>
+
+  <node name="FSM" pkg="state_machine" type="state_machine_node" output="screen"/>
+ 
+  <node pkg="sound_play" type="say_dialogue.py" output="screen"/>
+
+  <node pkg="sound_play" type="soundplay_node.py" output="screen"/>
+
+
+</launch>

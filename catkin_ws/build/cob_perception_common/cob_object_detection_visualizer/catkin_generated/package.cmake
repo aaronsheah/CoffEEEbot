@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "cob_object_detection_visualizer")
+set(cob_object_detection_visualizer_MAINTAINER "Richard Bormann <richard.bormann@ipa.fraunhofer.de>")
+set(cob_object_detection_visualizer_DEPRECATED "")
+set(cob_object_detection_visualizer_VERSION "0.6.6")
+set(cob_object_detection_visualizer_BUILD_DEPENDS "cmake_modules" "cob_object_detection_msgs" "roscpp" "visualization_msgs")
+set(cob_object_detection_visualizer_RUN_DEPENDS "cmake_modules" "cob_object_detection_msgs" "roscpp" "visualization_msgs")
+set(cob_object_detection_visualizer_BUILDTOOL_DEPENDS "catkin")

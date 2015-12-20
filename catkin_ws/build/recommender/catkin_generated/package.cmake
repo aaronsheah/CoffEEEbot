@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "recommender")
+set(recommender_MAINTAINER "human <human@todo.todo>")
+set(recommender_DEPRECATED "")
+set(recommender_VERSION "0.0.0")
+set(recommender_BUILD_DEPENDS "message_generation")
+set(recommender_RUN_DEPENDS "message_runtime")
+set(recommender_BUILDTOOL_DEPENDS "catkin")

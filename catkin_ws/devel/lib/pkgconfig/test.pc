@@ -1,0 +1,8 @@
+prefix=/home/human/catkin_ws/devel
+
+Name: test
+Description: Description of test
+Version: 0.0.0
+Cflags: -I/home/human/catkin_ws/devel/include
+Libs: -L/home/human/catkin_ws/devel/lib 
+Requires: message_runtime

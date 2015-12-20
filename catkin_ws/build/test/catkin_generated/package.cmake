@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "test")
+set(test_MAINTAINER "human <human@todo.todo>")
+set(test_DEPRECATED "")
+set(test_VERSION "0.0.0")
+set(test_BUILD_DEPENDS "message_generation")
+set(test_RUN_DEPENDS "message_runtime")
+set(test_BUILDTOOL_DEPENDS "catkin")

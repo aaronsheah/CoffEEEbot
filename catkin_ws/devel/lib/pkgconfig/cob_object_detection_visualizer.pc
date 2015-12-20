@@ -1,0 +1,8 @@
+prefix=/home/human/catkin_ws/devel
+
+Name: cob_object_detection_visualizer
+Description: Description of cob_object_detection_visualizer
+Version: 0.6.6
+Cflags: 
+Libs: -L/home/human/catkin_ws/devel/lib 
+Requires: cob_object_detection_msgs roscpp visualization_msgs
